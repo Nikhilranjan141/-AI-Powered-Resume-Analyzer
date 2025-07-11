@@ -178,3 +178,6 @@ For questions and support, please open an issue in the GitHub repository.
 - Initial release with basic resume storage and scoring functionality
 - IPFS integration for decentralized file storage
 - Access control and security features
+
+- ![WhatsApp Image 2025-07-11 at 10 57 45_efaa9af1](https://github.com/user-attachments/assets/43d308d1-7a1f-4795-90e4-e798524acc28)
+
